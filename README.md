@@ -84,9 +84,12 @@
 
 ---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tusharikasuman/tusharikasuman/output/snake-dark.svg">
+  <img alt="snake animation"
+    src="https://raw.githubusercontent.com/tusharikasuman/tusharikasuman/output/snake.svg">
+</picture>
 
 ---
 

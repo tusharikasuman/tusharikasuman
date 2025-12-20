@@ -84,6 +84,12 @@
 
 ---
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+---
+
 <p align="center">
   🌱 <em>Learning. Building. Improving — one project at a time.</em>
 </p>

@@ -84,15 +84,6 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/tusharikasuman/tusharikasuman/output/snake-dark.svg">
-  <img alt="snake animation"
-    src="https://raw.githubusercontent.com/tusharikasuman/tusharikasuman/output/snake.svg">
-</picture>
-
----
-
 <p align="center">
   🌱 <em>Learning. Building. Improving — one project at a time.</em>
 </p>

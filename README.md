@@ -1,24 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tusharika Suman</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Poppins
-    &size=22
-    &duration=3000
-    &pause=1000
-    &color=BD93F9
-    &center=true
-    &vCenter=true
-    &width=600
-    &lines=Frontend+Developer;Full+Stack+%26+AI+Enthusiast;Building+Projects+That+Matter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+%26+AI+Enthusiast;Building+Projects+That+Matter" />
 </p>
+
 
 <h3 align="center">Computer Science Student | Frontend Developer | Aspiring Full Stack & AI Enthusiast</h3>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=tusharikasuman&label=Profile%20views&color=BD93F9&style=flat" />
 </p>
-
-
 
 
 <p align="center">

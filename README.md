@@ -72,21 +72,10 @@
 
 ---
 
-### 🏅 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tusharikasuman&theme=dracula&row=1&column=6"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tusharikasuman&show_icons=true&theme=dracula" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharikasuman&theme=dracula" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharikasuman&layout=compact&theme=dracula" height="150"/>
 </p>
 
 ---

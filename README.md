@@ -93,5 +93,5 @@
 ---
 
 <p align="center">
-  🌱 <em>Learning. Building. Improving — one project at a time.</em>
+  🌱 <em>Learning. Building. Improving.</em>
 </p>

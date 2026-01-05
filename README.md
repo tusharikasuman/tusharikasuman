@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=180&section=header&text=Tusharika%20Suman&fontSize=40&fontColor=ffffff" />
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+%26+AI+Enthusiast;Building+Projects+That+Matter" />
 </p>

@@ -2,84 +2,99 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=180&section=header&text=Tusharika%20Suman&fontSize=40&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+%26+AI+Enthusiast;Building+Projects+That+Matter" />
-</p>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3500&pause=1200&color=9D8EC7&center=true&vCenter=true&width=480&lines=Building+interfaces+that+feel+inevitable.;Turning+ideas+into+experiences.;Currently%3A+React+%2B+DSA+%2B+Backend.;Open+to+internships+%26+collaborations.)](https://git.io/typing-svg)
 
-<h3 align="center">Computer Science Student | Frontend Developer | Aspiring Full Stack & AI Enthusiast</h3>
-
+</div>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=tusharikasuman&label=Profile%20views&color=BD93F9&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=tusharikasuman&label=Profile%20views&color=BD93F9&style=flat" />
 </p>
 
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<p align="center">
-  <em>Second Year CSE (Core) student at SRM, India</em>
-</p>
+## `whoami`
 
----
+```yaml
+name:       Tusharika Suman
+role:       Frontend Developer
+            Full Stack & AI Enthusiast
+education:  B.Tech CSE @ SRM Institute
+            of Science and Technology
+year:       2nd Year (2024–2028)
+interests:
+  - UI/UX Design
+  - AI-powered Applications
+  - Hackathons & Real-world Projects
+  - Video Editing & Content Creation
+currently:
+  - Strengthening DSA in Java
+  - Building projects with React
+  - Learning backend fundamentals
+  - Preparing for internships
+```
 
-### 👩‍💻 About Me
-- 🎓 Computer Science Engineering (Core) student at **SRM**
-- 💻 Interested in **Frontend Development, Full Stack & AI-powered applications**
-- 🎨 Enjoy **UI design, video editing & content creation**
-- 🛠️ Love building **real-world projects & hackathon solutions**
-- 🌱 Currently improving **DSA, React & backend fundamentals**
+</td>
+<td width="45%" valign="top">
 
----
+## Stats
 
-### 🚧 Currently Working On
-- 🔹 Strengthening **DSA (Java)**
-- 🔹 Building **React projects**
-- 🔹 Learning backend fundamentals
-- 🔹 Preparing for **hackathons & internships**
+<img src="https://github-readme-stats.vercel.app/api?username=tusharikasuman&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9D8EC7&icon_color=BD93F9&text_color=c9d1d9&ring_color=BD93F9" width="100%"/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharikasuman&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=BD93F9&fire=BD93F9&currStreakLabel=9D8EC7&sideLabels=9D8EC7" width="100%"/>
 
-### 📫 How to reach me
-📧 **tusharika.suman6@gmail.com**
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/tusharika-suman-328497270/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/tusharika.suman" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.youtube.com/@tusharikasuman" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/tusharika_suman6" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/tusharikasuman/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Languages & Tools
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,git,figma,tailwindcss,canva" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python,mysql" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwindcss" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
+
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,canva" />
+
 </div>
+
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharikasuman&show_icons=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharikasuman&theme=dracula" height="160"/>
-</p>
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharika-suman-328497270/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tusharikasuman/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/tusharika_suman6)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tusharikasuman)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tusharika.suman)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharika.suman6@gmail.com) 
+</div>
+
+<br/>
 
 ---
 
 ### 🟡 Pac-Man Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/tusharikasuman/tusharikasuman/output/pacman-contribution-graph-dark.svg">
@@ -89,8 +104,9 @@
     src="https://raw.githubusercontent.com/tusharikasuman/tusharikasuman/output/pacman-contribution-graph.svg">
 </picture>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63&height=100&section=footer&fontColor=9D8EC7" />
+</div>
 
-<p align="center">
-  🌱 <em>Learning. Building. Improving.</em>
-</p>
+
+

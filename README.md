@@ -20,11 +20,10 @@
 
 ```yaml
 name:       Tusharika Suman
-role:       Frontend Developer
-            Full Stack & AI Enthusiast
+role:       Full Stack & AI-ML Developer
 education:  B.Tech CSE @ SRM Institute
             of Science and Technology
-year:       2nd Year (2024–2028)
+year:       3rd Year (2024–2028)
 interests:
   - UI/UX Design
   - AI-powered Applications
@@ -32,8 +31,7 @@ interests:
   - Video Editing & Content Creation
 currently:
   - Strengthening DSA in Java
-  - Building projects with React
-  - Learning backend fundamentals
+  - Building projects 
   - Preparing for internships
 ```
 
